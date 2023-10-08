@@ -1,0 +1,30 @@
+{
+    "title": "Nova the Squirrel",
+    "slug": "novathesquirrel",
+    "gameLicense": "GPL-3.0-or-later",
+    "assetsLicense": "CC-BY-NC-SA-4.0",
+    "developer": "Nova Squirrel",
+    "repository": "https://github.com/NovaSquirrel/NovaTheSquirrel",
+    "platform": "NES",
+    "typetag": "game",
+    "date": "2019-04-30",
+    "tags": [
+        "Open Source"
+    ],
+    "play": {
+        "enable": true
+    },
+    "screenshots": [
+        "1.png",
+        "2.png",
+        "1.gif",
+        "2.gif"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "nova.nes",
+            "playable": true
+        }
+    ]
+}
