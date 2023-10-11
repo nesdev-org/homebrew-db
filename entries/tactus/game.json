@@ -1,0 +1,24 @@
+{
+    "title": "Tactus",
+    "slug": "tactus",
+    "developer": "zeta0134",
+    "repository": "https://github.com/zeta0134/tactus",
+    "platform": "NES",
+    "typetag": "game",
+    "date": "2023-06-14",
+    "tags": [],
+    "play": {
+        "enable": true
+    },
+    "screenshots": [
+        "001-title.gif",
+        "002-gameplay.png"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "tactus-v0.2-demo.nes",
+            "playable": true
+        }
+    ]
+}
