@@ -1,0 +1,34 @@
+{
+    "title": "240p Test Suite",
+    "slug": "240p-test-suite",
+    "gameLicense": "GPL-2.0-or-later",
+    "developer": "Damian Yerrick",
+    "repository": "https://github.com/pinobatch/240p-test-mini",
+    "platform": "NES",
+    "typetag": "tool",
+    "date": "2015-10-24",
+    "tags": [ "Open Source" ],
+    "play": {"enable": true},
+    "screenshots": [
+        "240pee-mainmenu.png",
+        "240pee-monoscope.png",
+        "240pee-megaton.png",
+        "240pee-audiosync.png",
+        "240pee-shadowsprite.png",
+        "240pee-stopwatch.png",
+        "240pee-smpte.png",
+        "240pee-bleed.png"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "240pee.nes",
+            "hash": {
+                "md5": "71a5c40e8f8b699965ea56dcb7fddb93",
+                "sha1": "8447996f3aec08ce2bf836a78b7506aa5611bf7e",
+                "sha256": "5be0c8b8a4a7f975e3c932b8ff990850857fc57a80ac202cf24a84ac70c1736d"
+            },
+            "playable": true
+        }
+    ]
+}

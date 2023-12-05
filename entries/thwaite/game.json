@@ -1,0 +1,26 @@
+{
+    "title": "Thwaite",
+    "slug": "thwaite",
+    "gameLicense": "GPL-3.0-or-later",
+    "developer": "Damian Yerrick",
+    "repository": "https://github.com/pinobatch/thwaite-nes",
+    "platform": "NES",
+    "typetag": "game",
+    "date": "2011-06-12",
+    "tags": ["Open Source", "Arcade", "Shooter"],
+    "play": {"enable": false},
+    "screenshots": [
+        "thwaite-title.png",
+        "thwaite-play.png",
+        "thwaite-nicejob.png",
+        "thwaite-cutscene.png",
+        "thwaite-practicemenu.png"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "thwaite128.nes",
+            "playable": true
+        }
+    ]
+}
