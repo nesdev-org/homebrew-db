@@ -1,0 +1,27 @@
+{
+    "title": "RHDE: Furniture Fight",
+    "slug": "rhde",
+    "gameLicense": "FSFAP",
+    "developer": "Damian Yerrick",
+    "repository": "https://github.com/pinobatch/rhde-nes",
+    "platform": "NES",
+    "typetag": "game",
+    "date": "2014-05-05",
+    "tags": ["Open Source", "Strategy"],
+    "play": {"enable": false},
+    "screenshots": [
+        "rhde-title.png",
+        "rhde-help.png",
+        "rhde-raceselect.png",
+        "rhde-play.png",
+        "RHDE_scene_with_bat.jpg",
+        "Poli_with_rocket_launcher.png"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "rhde.nes",
+            "playable": true
+        }
+    ]
+}
