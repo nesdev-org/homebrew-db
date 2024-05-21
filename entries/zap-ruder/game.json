@@ -1,0 +1,25 @@
+{
+    "title": "Zap Ruder",
+    "slug": "zap-ruder",
+    "gameLicense": "Zlib",
+    "developer": "Damian Yerrick",
+    "repository": "https://github.com/pinobatch/zap-ruder",
+    "platform": "NES",
+    "typetag": "game",
+    "date": "2011-09-18",
+    "tags": ["Open Source", "Arcade"],
+    "play": {"enable": false},
+    "screenshots": [
+        "ruder-title.png",
+        "ruder-yonoff.png",
+        "ruder-axe.png",
+        "ruder-zapping.png"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "ruder.nes",
+            "playable": true
+        }
+    ]
+}

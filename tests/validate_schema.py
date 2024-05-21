@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """
 Validate every game manifest against the JSON schema.
 """

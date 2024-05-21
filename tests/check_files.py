@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """
 Checks if every file mentioned in every game manifest exists on the file system.
 This script should be run after having verified that the game manifest validates again the JSON schema.

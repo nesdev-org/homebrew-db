@@ -1,0 +1,25 @@
+{
+    "title": "Concentration Room",
+    "slug": "croom",
+    "gameLicense": "GPL-3.0-or-later",
+    "developer": "Damian Yerrick",
+    "repository": "https://github.com/pinobatch/croom-nes",
+    "platform": "NES",
+    "typetag": "game",
+    "date": "2010-03-14",
+    "tags": ["Open Source", "Puzzle"],
+    "play": {"enable": false},
+    "screenshots": [
+        "croom-title.png",
+        "croom-play-1p.png",
+        "croom-ethan.png",
+        "croom-play-2p.png"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "croom.nes",
+            "playable": true
+        }
+    ]
+}
