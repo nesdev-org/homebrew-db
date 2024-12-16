@@ -1,0 +1,25 @@
+{
+    "title": "Irritating Ship",
+    "slug": "irritating-ship",
+    "description": "Navigate a winding corridor filled with obstacles in this new precision-movement game for the NES, rotating your ship and accelerating forward in the frictionless environment of space.",
+    "website": "https://fiskbit.itch.io/irritating-ship",
+    "developer": "Fiskbit",
+    "platform": "NES",
+    "typetag": "game",
+    "date": "2022-10-31",
+    "tags": ["Arcade"],
+    "play": {
+        "enable": true
+    },
+    "screenshots": [
+        "001-title.png",
+        "002-gameplay.png"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "irritating-ship-NESdev-Compo-2022.nes",
+            "playable": true
+        }
+    ]
+}
