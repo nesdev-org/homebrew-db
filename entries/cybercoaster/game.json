@@ -1,0 +1,29 @@
+{
+    "title": "Cybercoaster",
+    "slug": "cybercoaster",
+    "developer": "Fizzer & noby",
+    "license": "CC-BY-4.0",
+    "platform": "NES",
+    "typetag": "game",
+    "date": "2025-04-20",
+    "tags": [],
+    "play": {
+        "enable": true
+    },
+    "screenshots": [
+        "cybercoaster_000.png",
+        "cybercoaster_001.png",
+        "cybercoaster_002.png",
+        "cybercoaster_003.png"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "cybercoaster.nes",
+            "playable": true
+        },
+        {
+            "filename": "cybercoaster.zip"
+        }
+    ]
+}
