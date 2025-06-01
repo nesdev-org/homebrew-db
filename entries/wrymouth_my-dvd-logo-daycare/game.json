@@ -1,0 +1,25 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "wrymouth_my-dvd-logo-daycare",
+    "title": "My DVD Logo Daycare!",
+    "screenshots": [
+        "cover.png"
+    ],
+    "typetag": "game",
+    "platform": "NES",
+    "tags": [
+        "High Score",
+        "Singleplayer",
+        "Survival",
+        "Arcade"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/dvd_logo.nes",
+            "playable": true
+        }
+    ],
+    "developer": "Wrymouth",
+    "website": "https://wrymouth.itch.io/my-dvd-logo-daycare"
+}
