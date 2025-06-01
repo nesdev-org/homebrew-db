@@ -1,0 +1,31 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "johnybot_heist",
+    "title": "Heist",
+    "screenshots": [
+        "cover.png",
+        "screenshots/C4Se13.png",
+        "screenshots/E%2Fw6YR.png",
+        "screenshots/UnKv8h.png",
+        "screenshots/08Cykv.png"
+    ],
+    "typetag": "game",
+    "platform": "NES",
+    "tags": [
+        "Arcade",
+        "Multiplayer",
+        "Tower Defense",
+        "Two Player",
+        "Action",
+        "Singleplayer"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/heist.nes",
+            "playable": true
+        }
+    ],
+    "developer": "Johnybot",
+    "website": "https://johnybot.itch.io/heist"
+}

@@ -1,0 +1,32 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "johnybot_sudoku-23",
+    "title": "SUDOKU 23",
+    "screenshots": [
+        "cover.png",
+        "screenshots/YYw%2B4U.png",
+        "screenshots/1mGV9s.png",
+        "screenshots/gLm6JN.png",
+        "screenshots/841ydP.png",
+        "screenshots/ZwJ7ul.png"
+    ],
+    "typetag": "game",
+    "platform": "NES",
+    "tags": [
+        "Puzzle",
+        "2D",
+        "Minimalist",
+        "Pixel Art",
+        "Singleplayer",
+        "Retro"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/sudoku.nes",
+            "playable": true
+        }
+    ],
+    "developer": "Johnybot",
+    "website": "https://johnybot.itch.io/sudoku-23"
+}

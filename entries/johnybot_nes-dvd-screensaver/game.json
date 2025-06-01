@@ -1,0 +1,23 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "johnybot_nes-dvd-screensaver",
+    "title": "DVD Screensaver for NES",
+    "screenshots": [
+        "cover.png",
+        "screenshots/KKvEsH.png",
+        "screenshots/vhig6a.png",
+        "screenshots/950nCL.png"
+    ],
+    "typetag": "game",
+    "platform": "NES",
+    "tags": [],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/dvd.nes",
+            "playable": true
+        }
+    ],
+    "developer": "Johnybot",
+    "website": "https://johnybot.itch.io/nes-dvd-screensaver"
+}

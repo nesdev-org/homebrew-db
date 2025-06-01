@@ -1,0 +1,34 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "johnybot_guild-quest",
+    "title": "Guild Quest",
+    "screenshots": [
+        "cover.png",
+        "screenshots/p%2F%2F8kD.png",
+        "screenshots/be3E2p.png",
+        "screenshots/23O34y.png",
+        "screenshots/sLVwC0.png",
+        "screenshots/F8upkd.png"
+    ],
+    "typetag": "game",
+    "platform": "NES",
+    "tags": [
+        "Roguelite",
+        "Fantasy",
+        "Adventure",
+        "Role Playing",
+        "JRPG",
+        "Pixel Art",
+        "Singleplayer",
+        "Retro"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/guild_quest.nes",
+            "playable": true
+        }
+    ],
+    "developer": "Johnybot",
+    "website": "https://johnybot.itch.io/guild-quest"
+}

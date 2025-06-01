@@ -1,0 +1,33 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "johnybot_dig",
+    "title": "DIG",
+    "screenshots": [
+        "cover.png",
+        "screenshots/mTM%2BNJ.png",
+        "screenshots/p7x5k7.png",
+        "screenshots/0bSXag.png"
+    ],
+    "typetag": "game",
+    "platform": "NES",
+    "tags": [
+        "2D",
+        "Simulation",
+        "8-Bit",
+        "Short",
+        "Incremental",
+        "Pixel Art",
+        "Singleplayer",
+        "Loot",
+        "Retro"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/dig.nes",
+            "playable": true
+        }
+    ],
+    "developer": "Johnybot",
+    "website": "https://johnybot.itch.io/dig"
+}

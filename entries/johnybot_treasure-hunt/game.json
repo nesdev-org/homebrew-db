@@ -1,0 +1,30 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "johnybot_treasure-hunt",
+    "title": "Treasure Hunt",
+    "screenshots": [
+        "cover.png",
+        "screenshots/T6fond.png",
+        "screenshots/aHNi3i.png",
+        "screenshots/DU35wl.png",
+        "screenshots/XXfCEH.png",
+        "screenshots/Yft8Xn.png"
+    ],
+    "typetag": "game",
+    "platform": "NES",
+    "tags": [
+        "Puzzle",
+        "Two Player",
+        "Local multiplayer",
+        "Retro"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/treasurehunt.nes",
+            "playable": true
+        }
+    ],
+    "developer": "Multiple authors",
+    "website": "https://johnybot.itch.io/treasure-hunt"
+}

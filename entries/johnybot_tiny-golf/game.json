@@ -1,0 +1,34 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "johnybot_tiny-golf",
+    "title": "Tiny Golf",
+    "screenshots": [
+        "cover.png",
+        "screenshots/bwiJMO.png",
+        "screenshots/pbDngA.png",
+        "screenshots/nnNatw.png",
+        "screenshots/DaciL9.png"
+    ],
+    "typetag": "game",
+    "platform": "NES",
+    "tags": [
+        "minigames",
+        "Multiplayer",
+        "2D",
+        "Golf",
+        "Local multiplayer",
+        "Sports",
+        "Pixel Art",
+        "Retro",
+        "Turn-based"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/golf.nes",
+            "playable": true
+        }
+    ],
+    "developer": "Johnybot",
+    "website": "https://johnybot.itch.io/tiny-golf"
+}

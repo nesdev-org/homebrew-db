@@ -1,0 +1,30 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "johnybot_chessnovice",
+    "title": "Chessnovice",
+    "screenshots": [
+        "cover.png",
+        "screenshots/SJkcAO.png",
+        "screenshots/34PMVN.png",
+        "screenshots/7TZf3a.png",
+        "screenshots/g1h2r2.png"
+    ],
+    "typetag": "game",
+    "platform": "NES",
+    "tags": [
+        "Chess",
+        "Retro",
+        "Two Player",
+        "Versus",
+        "Strategy"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/chessnovice.nes",
+            "playable": true
+        }
+    ],
+    "developer": "Johnybot",
+    "website": "https://johnybot.itch.io/chessnovice"
+}

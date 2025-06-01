@@ -1,0 +1,24 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "johnybot_enter-password",
+    "title": "Enter Password",
+    "screenshots": [
+        "cover.png",
+        "screenshots/XdKewj.png"
+    ],
+    "typetag": "game",
+    "platform": "NES",
+    "tags": [
+        "Indie",
+        "Simulation"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/typing.nes",
+            "playable": true
+        }
+    ],
+    "developer": "Johnybot",
+    "website": "https://johnybot.itch.io/enter-password"
+}

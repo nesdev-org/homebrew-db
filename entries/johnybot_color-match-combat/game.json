@@ -1,0 +1,35 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "johnybot_color-match-combat",
+    "title": "Color Match Combat",
+    "screenshots": [
+        "cover.png",
+        "screenshots/Lixy7K.png",
+        "screenshots/ynSWwf.png",
+        "screenshots/zc%2B%2Bij.png",
+        "screenshots/VZMijl.png",
+        "screenshots/eyWzdx.png"
+    ],
+    "typetag": "game",
+    "platform": "NES",
+    "tags": [
+        "Multiplayer",
+        "NES ROM",
+        "Puzzle",
+        "2D",
+        "Two Player",
+        "8-Bit",
+        "NES (Nintendo Entertainment System)",
+        "Pixel Art",
+        "Retro"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/color-match-combat.nes",
+            "playable": true
+        }
+    ],
+    "developer": "Johnybot",
+    "website": "https://johnybot.itch.io/color-match-combat"
+}

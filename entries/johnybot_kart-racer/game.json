@@ -1,0 +1,30 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "johnybot_kart-racer",
+    "title": "Kart Racer",
+    "screenshots": [
+        "cover.png",
+        "screenshots/zGDswp.png",
+        "screenshots/KUt0M0.png",
+        "screenshots/Az2QUi.png"
+    ],
+    "typetag": "game",
+    "platform": "NES",
+    "tags": [
+        "Multiplayer",
+        "Racing",
+        "Local multiplayer",
+        "Pixel Art",
+        "party-game",
+        "Retro"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/kart_racer.nes",
+            "playable": true
+        }
+    ],
+    "developer": "Johnybot",
+    "website": "https://johnybot.itch.io/kart-racer"
+}

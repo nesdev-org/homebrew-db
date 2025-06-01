@@ -1,0 +1,28 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "johnybot_quarti",
+    "title": "Quarti",
+    "screenshots": [
+        "cover.png",
+        "screenshots/XUndsa.png",
+        "screenshots/szT4UU.png",
+        "screenshots/4EBI9O.png"
+    ],
+    "typetag": "game",
+    "platform": "NES",
+    "tags": [
+        "Arcade",
+        "Rhythm",
+        "Singleplayer",
+        "Retro"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/quarti.nes",
+            "playable": true
+        }
+    ],
+    "developer": "Johnybot",
+    "website": "https://johnybot.itch.io/quarti"
+}
