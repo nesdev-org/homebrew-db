@@ -1,0 +1,30 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "plourples_helmet-nes",
+    "title": "Helmet (Game & Watch) on NES",
+    "alias": [
+        "Helmet"
+    ],
+    "description": "A simple recreation of the Helmet Game & Watch on NES.",
+    "date": "2026-07-17",
+    "screenshots": [
+        "cover.png",
+        "screenshots/gmUSis.png"
+    ],
+    "typetag": "game",
+    "platform": "NES",
+    "tags": [
+        "Action",
+        "Arcade"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/helmet.nes",
+            "playable": true
+        }
+    ],
+    "developer": "plourples",
+    "website": "https://plourples.itch.io/helmet-nes",
+    "ai_disclosure": false
+}
